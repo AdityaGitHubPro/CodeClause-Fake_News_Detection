@@ -1,0 +1,2 @@
+# CodeClause-Fake_News_Detection
+CODECLAUSE DATASCIENCE INTERNSHIP
